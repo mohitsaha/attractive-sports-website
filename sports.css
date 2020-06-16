@@ -1,0 +1,57 @@
+*{
+	font-family: Courier New, monospace;
+	
+}
+body{
+	background-color: #d8d8d8;
+}
+.navbar{
+	text-align:right;
+	padding: 25px;
+	border-bottom:1px solid lightblue;
+}
+.navlink{
+	text-decoration:none;
+	color:#56bada;
+	margin:15px;
+
+}
+.headers{
+	width:80%;
+	text-align:center;
+	margin:25px auto;
+
+}
+.headers > h2{
+font-size: 36px;
+}
+.headers > h1{
+ font-size: 48px;
+}
+.about{
+	width:80%;
+	margin:30px auto;
+	text-align:center;
+}
+.three-column{
+	width:30%;
+	height:50px;
+	text-align:center;
+	display:inline-block;
+}
+.footer{
+	text-align:center;
+
+}
+.footer button{
+	border:none;
+	padding:18px 30px;
+	font-size:18px;
+background-color:#a2ccda;
+border-radius:2px;
+}
+.footer button:hover{
+	top:2px;
+	background-color:#ef4646;
+	
+}
