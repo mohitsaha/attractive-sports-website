@@ -12,7 +12,7 @@ body{
 }
 .navlink{
 	    text-decoration: none;
-    color: #00c1ff;
+    color: #211f1f;
     margin: 15px;
     font-weight: bold;
     font-family: Courier New,monospace;
@@ -46,11 +46,12 @@ font-size: 36px;
            margin-top:40px;
 }
 .footer button{
-	border:none;
-	padding:18px 30px;
-	font-size:18px;
-background-color:#a2ccda;
-border-radius:2px;
+	font-weight: bolder;
+    border: none;
+    padding: 18px 30px;
+    font-size: 25px;
+    background-color: #a2ccda;
+    border-radius: 2px;
 }
 .footer button:hover{
 	top:2px;
