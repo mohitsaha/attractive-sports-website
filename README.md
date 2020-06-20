@@ -1,5 +1,5 @@
 # Attractive-sports-website
  Front-end website for sports store
- ![pdf](https://github.com/mohitsaha/attractive-sports-website/blob/master/Sports%20site.pdf)
+ (https://github.com/mohitsaha/attractive-sports-website/blob/master/Sports%20site.pdf)
 
 
