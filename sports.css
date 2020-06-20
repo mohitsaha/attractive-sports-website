@@ -11,10 +11,12 @@ body{
 	border-bottom:1px solid lightblue;
 }
 .navlink{
-	text-decoration:none;
-	color:#56bada;
-	margin:15px;
-
+	    text-decoration: none;
+    color: #00c1ff;
+    margin: 15px;
+    font-weight: bold;
+    font-family: Courier New,monospace;
+    font-size: 20px;
 }
 .headers{
 	width:80%;
